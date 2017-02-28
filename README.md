@@ -21,7 +21,7 @@ While merging those catalogues, I have to eye-inspect one by one because these n
     - capitals, binary flags `AB` or planet name without `bcd`
     - `hat-p-27-wasp-40_b` in .eu (what?)
     - acronyms like `Ups And b` <-> `Upsilon Andromedae b`
-+ Planets paper not even published like (EPIC 220504338b)[https://arxiv.org/abs/1611.07614]
++ Planets paper not even published like [EPIC 220504338b](https://arxiv.org/abs/1611.07614)
 + Binaries that can only be found on .open like `HD 189733 A b`
 + etc.
 
