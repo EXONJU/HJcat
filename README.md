@@ -8,7 +8,9 @@ Hand picked hot Jupiter Catalogue compiled from
 |[.org](http://exoplanets.org)        |   Haven't been updated for a while...      |
 |[.nasa](http://exoplanetarchive.ipac.caltech.edu/)       |    Not yet 100 percent perfect     |
 |[.open](http://openexoplanetcatalogue.com/)        |   A bit similiar like .eu except for data structure     |
- 
+
+**0 < Per[days] <= 10** AND **0.3 < Planet Mass[M_Jup] <= 13**
+
 While merging those catalogues, I have to eye-inspect one by one because these nasty things:
 
 + Other names for the same objects like
