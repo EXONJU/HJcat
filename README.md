@@ -25,6 +25,7 @@ While merging those catalogues, I have to eye-inspect one by one because these n
     - acronyms like `Ups And b` <-> `Upsilon Andromedae b`
 + Planets paper not even published like [EPIC 220504338b](https://arxiv.org/abs/1611.07614)
 + Binaries that can only be found on .open like `HD 189733 A b`
++ `mu Ara c` with unpaired planet and infomation
 + etc. :joy:
 
 > mengzy1989[at]gmail.com
